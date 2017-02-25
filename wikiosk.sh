@@ -44,7 +44,11 @@ urllist=("http://wikistream.wmflabs.org/"
     "https://phabricator.wikimedia.org/project/sprint/burn/1015/"
 
     "http://placekitten.com/1900/1080"
-
+    
+    "http://moebio.com/research/wikipediagender/#tv_programs&films&books&emotions&cities&sports&from_list"
+    "http://geography.oii.ox.ac.uk/?page=information-imbalance-africa-on-wikipedia"
+    "http://www.tracemedia.co.uk/terra/map/#type=ol&lang=he&map=language&loc=1"
+    
 
 
 )
